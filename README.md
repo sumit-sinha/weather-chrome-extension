@@ -23,5 +23,5 @@ For more details and documentation you can refer to below link
 
 | Plugin | README |
 | ------ | ------ |
-| Getting Started | [https://developer.chrome.com/extensions/getstarted] [PlDb] |
-| Extension Overview | [https://developer.chrome.com/extensions/overview] [PlGh] |
+| Getting Started | https://developer.chrome.com/extensions/getstarted |
+| Extension Overview | https://developer.chrome.com/extensions/overview |
