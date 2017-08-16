@@ -1,0 +1,50 @@
+.dropdown button {
+    width: 100%;
+    text-align: left;
+}
+.dropdown-menu.show {
+    width: 100%;
+}
+.dropdown-toggle::after {
+    right: 10px;
+    position: absolute;
+    top: 16px;
+}
+#root {
+    margin-top: 15px;
+}
+.col-12.city-label {
+    height: 30px;
+}
+.weather-info {
+    margin-top: 10px
+}
+.weather-info .col-4 {
+    text-align: center;
+}
+.weather-info .col-4 p:first-child {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.weather-image div {
+    height: 180px;
+    width: 200px;
+    margin: 10px auto 0 auto;
+    background-size: contain;
+}
+.weather-image p {
+    text-align: center;
+    font-size: 0.8rem;
+}
+.slight-cloud {
+    background: url("../images/slight-cloud.png") no-repeat center;
+}
+.sunny {
+    background: url("../images/sunny.png") no-repeat center;
+}
+.rain {
+    background: url("../images/rain.png") no-repeat center;
+}
+.cloudy {
+    background: url("../images/cloudy.png") no-repeat center;
+}
